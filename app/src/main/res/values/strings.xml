@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="register_password_error">Invalid Password</string>
+    <string name="register_success">Success</string>
+    <string name="register_error_message">Invalid User or Password</string>
+    <string name="login_error_message">Invalid User or Password</string>
+
+</resources>
